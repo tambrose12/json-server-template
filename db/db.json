@@ -1,52 +1,48 @@
 {
-  "toys": [
+  "recipes": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "name": "Chicken Fajitas",
+      "image": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2020/02/How-to-Make-Chicken-Fajitas-1-2.jpg",
+      "ingredients": [
+        "3 boneless skinless chicken breasts",
+        "1 onion, thinly sliced",
+        "3 bell peppers , thinly sliced",
+        "2 tablespoons olive oil",
+        "1/2 lime",
+        "1/2 tablespoon chili powder",
+        "1/2 tablespoon ground cumin",
+        "1 teaspoon garlic powder",
+        "1/2 teaspoon paprika",
+        "1/2 teaspoon oregano",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon pepper"
+      ],
+      "directions": "1) Add the fajitas seasoning ingredients to a small mixing bowl and stir together. 2) Generously sprinkle the fajita seasoning on both sides of the chicken and use your fingers to press it into the chicken. 3) Heat the oil in a large skillet over medium heat. Sear the chicken breasts for about 7-8 minutes on each side. 4) While your chicken is cooking, cut the bell peppers and onion into thin slices. 5) Once the chicken has finished cooking, remove it to a plate and let it rest for a couple of minutes. Add the bell peppers and onion to the same skillet over medium heat and saute for 4-5 minutes, stirring frequently. 6) When the bell peppers are just about done sauteing, slice the chicken breasts into strips. 7) Add the chicken back into the skillet, add a squeeze of fresh lime juice and stir everything together. 8) Serve immediately with tortillas and extra toppings such as sour cream, pico de gallo and guacamole.",
+      "time": "Total Time: 26 minutes",
+      "cuisine": "Mexican"
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
-    },
-    {
-      "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
-    },
-    {
-      "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
-    },
-    {
-      "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
-    },
-    {
-      "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
-    },
-    {
-      "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
-    },
-    {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "name": "Shrimp Scampi",
+      "image": "https://www.allrecipes.com/thmb/M_JD8gcZbIWk_TL0yBthlQ4zOs8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/229960-Shrimp-Scampi-with-Pasta-mfs-048-70ffd08f7c4549ffb5367868b5fb7365.jpg",
+      "ingredients": [
+        "1 (16 ounce) package linguine pasta",
+        "4 tablespoons butter",
+        "4 tablespoons extra-virgin olive oil",
+        "2 shallots, finely diced",
+        "2 cloves garlic, minced",
+        "1 pinch red pepper flakes (Optional)",
+        "1 pound shrimp, peeled and deveined",
+        "1 pinch kosher salt and freshly ground pepper",
+        "1/2 cup dry white wine",
+        "1 lemon, juiced",
+        "1/4 cup finely chopped fresh parsley leaves",
+        "1 teaspoon extra-virgin olive oil, or to taste"
+      ],
+      "directions": "1) Gather ingredients. 2) Bring a large pot of salted water to a boil; cook linguine in boiling water until nearly tender, 6 to 8 minutes. Drain. 3) Melt 2 tablespoons butter with 2 tablespoons olive oil in a large skillet over medium heat. Cook and stir shallots, garlic, and red pepper flakes in the hot butter and oil until shallots are translucent, 3 to 4 minutes. 4) Season shrimp with kosher salt and black pepper; add to the skillet and cook until pink, stirring occasionally, 2 to 3 minutes. Remove shrimp from skillet and keep warm. 5) Pour white wine and lemon juice into skillet and bring to a boil while scraping the browned bits of food off of the bottom of the skillet with a wooden spoon. Melt 2 tablespoons butter in skillet, stir 2 tablespoons olive oil into butter mixture, and bring to a simmer. 6) Toss linguine, shrimp, and parsley in the butter mixture until coated; season with salt and black pepper. Drizzle with 1 teaspoon olive oil to serve.",
+      "time": "Total Time: 15 minutes",
+      "cuisine": "Italian"
     }
   ]
 }
