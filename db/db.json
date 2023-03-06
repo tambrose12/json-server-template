@@ -43,6 +43,24 @@
       "directions": "1) Gather ingredients. 2) Bring a large pot of salted water to a boil; cook linguine in boiling water until nearly tender, 6 to 8 minutes. Drain. 3) Melt 2 tablespoons butter with 2 tablespoons olive oil in a large skillet over medium heat. Cook and stir shallots, garlic, and red pepper flakes in the hot butter and oil until shallots are translucent, 3 to 4 minutes. 4) Season shrimp with kosher salt and black pepper; add to the skillet and cook until pink, stirring occasionally, 2 to 3 minutes. Remove shrimp from skillet and keep warm. 5) Pour white wine and lemon juice into skillet and bring to a boil while scraping the browned bits of food off of the bottom of the skillet with a wooden spoon. Melt 2 tablespoons butter in skillet, stir 2 tablespoons olive oil into butter mixture, and bring to a simmer. 6) Toss linguine, shrimp, and parsley in the butter mixture until coated; season with salt and black pepper. Drizzle with 1 teaspoon olive oil to serve.",
       "time": "Total Time: 15 minutes",
       "cuisine": "Italian"
+    },
+    {
+      "id": 3,
+      "name": "Teriyaki Chicken Casserole",
+      "image": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+      "ingredients": [
+        "3/4 cup soy sauce",
+        "1/2 cup water",
+        "1/4 cup brown sugar",
+        "1/2 teaspoon ground ginger",
+        "1/2 teaspoon minced garlic",
+        "4 tablespoon cornstarch",
+        "2 chicken breasts",
+        "1 (12oz) package stir-fry vegetables",
+        "3 cups brown rice"
+      ],
+      "directions": "1) Preheat oven to 350° F. Spray a 9x13-inch baking pan with non-stick spray. 2) Combine soy sauce, ½ cup water, brown sugar, ginger and garlic in a small saucepan and cover. Bring to a boil over medium heat. Remove lid and cook for one minute once boiling. 3) Meanwhile, stir together the corn starch and 2 tablespoons of water in a separate dish until smooth. Once sauce is boiling, add mixture to the saucepan and stir to combine. Cook until the sauce starts to thicken then remove from heat. 4) Place the chicken breasts in the prepared pan. Pour one cup of the sauce over top of chicken. Place chicken in oven and bake 35 minutes or until cooked through. Remove from oven and shred chicken in the dish using two forks. 5) *Meanwhile, steam or cook the vegetables according to package directions. 6) Add the cooked vegetables and rice to the casserole dish with the chicken. Add most of the remaining sauce, reserving a bit to drizzle over the top when serving. Gently toss everything together in the casserole dish until combined. Return to oven and cook 15 minutes. Remove from oven and let stand 5 minutes before serving. Drizzle each serving with remaining sauce. Enjoy!",
+      "cuisine": "Japanese"
     }
   ]
 }
