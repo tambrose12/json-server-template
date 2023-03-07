@@ -89,6 +89,42 @@
       "directions": "1) - MARINATING THE BEEF In a bowl, add the beef, salt, 1 pinch white pepper, 1 Teaspoon sesame seed oil, 1/2 egg, corn starch,1 Tablespoon of oil and mix together.  2) - BOILING THE THE NOODLES In a 6 qt pot add your noodles to boiling water until the noodles are submerged and boil on high heat for 10 seconds. After your noodles is done boiling strain and cool with cold water.  3) - STIR FRY Add 2 Tablespoons of oil, beef and cook on high heat untill beef is medium cooked. Set the cooked beef aside In a wok add 2 Tablespoon of oil, onions, minced garlic, minced ginger, bean sprouts, mushrooms, peapods and 1.5 cups of water or until the vegetables are submerged in water. Add the noodles to wok To make the sauce, add oyster sauce, 1 pinch white pepper, 1 teaspoon sesame seed oil, sugar, and 1 Teaspoon of soy sauce. Next add the beef to wok and stir-fry",
       "cuisine": "Chinese",
       "time" : 30
+    },
+    {
+      "id": 5,
+      "name": "Chocolate Raspberry Brownies",
+      "image": "https://www.themealdb.com/images/media/meals/yypvst1511386427.jpg",
+      "ingredients": [
+        "200g Dark Chocolate",
+        "100g Milk Chocolate",
+        "250g Salted Butter",
+        "400g Light Brown Soft Sugar",
+        "4 large Eggs",
+        "140g Plain Flour",
+        "50g Cocoa",
+        "200g Raspberries"
+      ],
+      "directions": "1) Heat oven to 180C/160C fan/gas 4. Line a 20 x 30cm baking tray tin with baking parchment. 2) Put the chocolate, butter and sugar in a pan and gently melt, stirring occasionally with a wooden spoon. Remove from the heat. 3) Stir the eggs, one by one, into the melted chocolate mixture. 4) Sieve over the flour and cocoa, and stir in. 5) Stir in half the raspberries, scrape into the tray, then scatter over the remaining raspberries. 6) Bake on the middle shelf for 30 mins or, if you prefer a firmer texture, for 5 mins more. Cool before slicing into squares. Store in an airtight container for up to 3 days.",
+      "cuisine": "American",
+      "time" : 40
+    },
+    {
+      "id": 6,
+      "name": "Spicy Arrabiata Penne",
+      "image": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
+      "ingredients": [
+      "1 pound penne rigate",
+      "1/4 cup olive oil",
+      "3 cloves garlic",
+      "1 tin chopped tomatoes",
+      "1/2 teaspoon red chile flakes",
+      "1/2 teaspoon italian seasoning",
+      "6 leaves basil",
+      "spinkling Parmigiano-Reggiano"
+      ],
+      "directions": "Bring a large pot of water to a boil. Add kosher salt to the boiling water, then add the pasta. Cook according to the package instructions, about 9 minutes.In a large skillet over medium-high heat, add the olive oil and heat until the oil starts to shimmer. Add the garlic and cook, stirring, until fragrant, 1 to 2 minutes. Add the chopped tomatoes, red chile flakes, Italian seasoning and salt and pepper to taste. Bring to a boil and cook for 5 minutes. Remove from the heat and add the chopped basil. Drain the pasta and add it to the sauce. Garnish with Parmigiano-Reggiano flakes and more basil and serve warm.",
+      "cuisine": "Italian",
+      "time" : 25
     }
   ]
 }
