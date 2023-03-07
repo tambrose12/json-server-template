@@ -125,6 +125,58 @@
       "directions": "Bring a large pot of water to a boil. Add kosher salt to the boiling water, then add the pasta. Cook according to the package instructions, about 9 minutes.In a large skillet over medium-high heat, add the olive oil and heat until the oil starts to shimmer. Add the garlic and cook, stirring, until fragrant, 1 to 2 minutes. Add the chopped tomatoes, red chile flakes, Italian seasoning and salt and pepper to taste. Bring to a boil and cook for 5 minutes. Remove from the heat and add the chopped basil. Drain the pasta and add it to the sauce. Garnish with Parmigiano-Reggiano flakes and more basil and serve warm.",
       "cuisine": "Italian",
       "time" : 25
+    },
+    {
+      "id": 7,
+      "name": "Pizza Express Margherita",
+      "image": "https://www.themealdb.com/images/media/meals/x0lk931587671540.jpg",
+      "ingredients": [
+        "150ml Water",
+        "1 tsp Sugar",
+        "15g Yeast",
+        "225g Plain Flour",
+        "1 1/2 tsp Salt",
+        "Drizzle Olive Oil",
+        "80g Passata",
+        "70g Mozzarella",
+        "Peeled and Sliced Oregano",
+        "Leaves Basil",
+       "Pinch Black Pepper"
+      ],
+      "directions": "1 Preheat the oven to 230°C.2 Add the sugar and crumble the fresh yeast into warm water.3 Allow the mixture to stand for 10 – 15 minutes in a warm place (we find a windowsill on a sunny day works best) until froth develops on the surface. 4 Sift the flour and salt into a large mixing bowl, make a well in the middle and pour in the yeast mixture and olive oil.5 Lightly flour your hands, and slowly mix the ingredients together until they bind.6 Generously dust your surface with flour.7 Throw down the dough and begin kneading for 10 minutes until smooth, silky and soft.8 Place in a lightly oiled, non-stick baking tray (we use a round one, but any shape will do!)9 Spread the passata on top making sure you go to the edge.10 Evenly place the mozzarella (or other cheese) on top, season with the oregano and black pepper, then drizzle with a little olive oil.11 Cook in the oven for 10 – 12 minutes until the cheese slightly colours.12 When ready, place the basil leaf on top and tuck in!",
+      "cuisine": "Italian",
+      "time" : 25
+    },
+    {
+      "id": 8,
+      "name": "Szechuan Beef",
+      "image": "https://www.themealdb.com/images/media/meals/1529443236.jpg",
+      "ingredients": [
+      "1/2 lb Beef",
+      "1/2 tsp Salt",
+      "1 tsp Sesame Seed Oil",
+      "1 pinch Pepper",
+      "1 Egg White",
+      "3 tbs Starch",
+      "4 tbs Oil",
+      "1 tsp Ginger",
+      "1 tsp Garlic",
+      "3/4 cup Onion",
+      "1/2 cup Carrots",
+      "3/4 cup Green Pepper",
+      "1 cup Celery",
+      "1 cup Mushrooms",
+      "1 tbs Cooking wine",
+      "1 cup Water",
+      "1 tbs Oyster Sauce",
+      "1/2 tsp Hotsauce",
+      "1 tsp Sugar",
+      "1 tbs Soy Sauce"
+      ],
+      "directions": "STEP 1 - MARINATING THE BEEF In a bowl, add the beef, salt, sesame seed oil, white pepper, egg white, 2 Tablespoon of corn starch and 1 Tablespoon of oil. STEP 2 - STIR FRY First Cook the beef by adding 2 Tablespoon of oil until the beef is golden brown. Set the beef aside In a wok add 1 Tablespoon of oil, minced ginger, minced garlic and stir-fry for few seconds. Next add all of the vegetables and then add sherry cooking wine and 1 cup of water. To make the sauce add oyster sauce, hot pepper sauce, and sugar. add the cooked beef and 1 spoon of soy sauce To thicken the sauce, whisk together 1 Tablespoon of cornstarch and 2 Tablespoon of water in a bowl and slowly add to your stir-fry until it's the right thickness.",
+      "cuisine": "Chinese",
+      "time" : 30
     }
+
   ]
 }
