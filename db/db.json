@@ -27,7 +27,7 @@
       "id": 2,
       "name": "Shrimp Scampi",
       "image": "https://www.allrecipes.com/thmb/M_JD8gcZbIWk_TL0yBthlQ4zOs8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/229960-Shrimp-Scampi-with-Pasta-mfs-048-70ffd08f7c4549ffb5367868b5fb7365.jpg",
-      "liked": false,
+      "liked": true,
       "ingredients": [
         "1 (16 ounce) package linguine pasta",
         "4 tablespoons butter",
@@ -325,6 +325,33 @@
       "directions": "Heat oven to 160C/140C fan/gas 3. Crush the biscuits and most of the almonds inside a plastic food bag using a rolling pin. Mix with the butter, then press into the bottom of a deep, oval, 23cm dish (or something similar in size – a roasting tin, baking dish or cake tin will work). Bake for 10 mins until crisp. Stir or mash together the yogurt and mascarpone, then whisk in the eggs, one at a time. Stir in the lemon and orange zests, then stir in most of the honey, reserving about 3 tbsp. Spread over the biscuit base, cover loosely with foil and cook for 1 hr. Remove the foil and cook for 15 mins more until lightly golden and the top is firm with just the slightest wobble in the middle. Leave to cool. Can be kept in the fridge for up to 2 days. To serve, scatter with almonds, drizzle over the remaining honey, and hand around fresh fruit to go with it.",
       "cuisine": "Greek",
       "time": 25
+    },
+    {
+      "name": "Spicy Miso Ramen",
+      "image": "https://dishingouthealth.com/wp-content/uploads/2022/01/SpicyMisoRamen_Square.jpg",
+      "liked": false,
+      "directions": "1) Heat a stock pot or Dutch oven over medium heat. Once hot, lightly grease and add chicken or pork (or vegetarian alternative). Cook for 4 to 5 minutes, using a wooden spoon to break meat into small pieces. Transfer meat to a bowl and set aside. Add oil to pan, along with mushrooms. Cook 5 minutes, until golden and tender. Stir in shallots, garlic, and ginger; cook 2 to 3 more minutes, until aromatic.  2) Stir in miso paste, soy sauce, rice vinegar, and hot chili oil. Add 6 cups of broth and bring mixture to a boil. *Note: if you prefer a brothier ramen, add an additional 1 to 2 cups of broth at this time. Lower heat and very gently simmer over medium-low for 20 minutes. Bring broth back to a boil, and add noodles. Cook until noodles are al dente, about 3 minutes, or according to package instructions. Stir in cooked meat and corn. Ladle ramen into bowls, and top each serving with 1 soft-boiled egg, a handful of green onions, and toasted sesame seeds. For more spice, drizzle extra chili oil overtop.",
+      "time": "40",
+      "cuisine": "Japanese",
+      "ingredients": [
+        "8 oz. ground chicken or pork (sub crumbled tempeh or tofu)",
+        "2 Tbsp. neutral cooking oil",
+        "6 to 8 oz. thinly sliced shiitake mushrooms, stems removed",
+        "½ cup minced shallots",
+        "4 garlic cloves, minced",
+        "1 Tbsp. freshly grated ginger",
+        "3 Tbsp. white miso paste",
+        "2 Tbsp. lower-sodium soy sauce",
+        "2 Tbsp. rice vinegar",
+        "1 Tbsp. hot chili oil",
+        "6 to 8 cups low sodium chicken or vegetable broth",
+        "2 packs dry ramen noodles (seasoning packs discarded)*",
+        "1 cup sweet corn (frozen/thawed, canned, or fresh)",
+        "3 soft-boiled eggs, halved*",
+        "Thinly sliced green onions for garnish",
+        "Toasted sesame seeds for garnish"
+      ],
+      "id": 16
     }
   ]
 }
